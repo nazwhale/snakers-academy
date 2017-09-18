@@ -37,9 +37,13 @@ cd snakers-academy
 ruby play.rb
 ```
 
+###
+
+Once you have a working snake game, see if you can complete some of the challenges [here](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md)
+
 ### Further resources
 
-Learn Ruby basics 
+Learn Ruby basics
 * [Chris Pine's 'Learn to Program'](https://pine.fm/LearnToProgram/chap_00.html)
 * [Codecademy](https://www.codecademy.com/learn/learn-ruby)
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
