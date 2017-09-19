@@ -1,6 +1,6 @@
 class Snake
 
-attr_accessor :direction, :xpos, :ypos, :speed, :length, :segments, :ticker
+attr_accessor :direction, :x, :y, :speed, :length, :segments, :ticker
 
 
 end

@@ -1,6 +1,6 @@
 class Segment
 
-	attr_accessor :xpos, :ypos
+	attr_accessor :x, :y
 
 
 end

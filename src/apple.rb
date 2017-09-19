@@ -1,6 +1,6 @@
 class Apple
 
-attr_reader :xpos, :ypos
+attr_reader :x, :y
 
 
 end
