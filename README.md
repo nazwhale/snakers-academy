@@ -15,7 +15,7 @@ My personal opinion on choosing a coding language to start with is that it reall
 
 There are lots to choose from, and developers love to argue over which one is best (just like they love to argue which language is best).
 
-Just get [Atom](https://atom.io/). It's easy to use, looks nice, and is made by [GitHub](https://github.com/) (a.k.a the Citadel of Ricks).
+Just get [Atom](https://atom.io/). It's easy to use, looks nice, and is made open-source by [GitHub](https://github.com/) (a.k.a the Citadel of Ricks).
 
 ##### Install Homebrew, Ruby, and Gosu
 
