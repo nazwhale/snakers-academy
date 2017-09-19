@@ -1,12 +1,13 @@
-### Snakers Academy challenge sheet!
+### Snakers Academy challenge sheet
 
 These challenges are just ideas. You are  **highly** encouraged to mess with everything as much as you can.
 
 If at some point you do these things, I will be happy:
 * Give things silly/rude names
-* Put a zero on a random number in the code and see what happens.
+* Put a zero on a number in the code and see what happens
 * Really try and understand an error message (Google is your friend)
-* Break everything beyond repair and start over.  
+* Try and understand a concept using [IRB](https://www.ruby-lang.org/en/documentation/quickstart/)
+* Break everything beyond repair and start over
 
 If you need a working version of snake, feel free to download [this repository](https://github.com/nazwhale/ruby-snake).
 
@@ -14,7 +15,7 @@ If you need a working version of snake, feel free to download [this repository](
 
 1) Change the Game Window caption from “Snake” to "Snakers Academy". Or your name, or an emoji (🐍), or some lewd pun involving snakes (Ereptile Disfunction, anyone?)
 
-2) Make the snake go up by default (it currently goes right).
+2) Make the snake go up by default (it currently goes right)
 
 3) Play around with the starting speed of the snake. Make it really fast and go "wooooahhh" for 5 seconds, until you get bored. Then, mess with the increase in speed that comes with eating apples.
 
@@ -32,7 +33,9 @@ If you need a working version of snake, feel free to download [this repository](
 
 *Super legit bring-it-up-in-an-interview pro points for no. 1*
 
-1) Think of an improvement you can make to my original repository (it's far from perfect). Next, make a GitHub account and see if you can figure out what a "Pull-Request" is. With a bit of research, you should be able to submit a pull request to my original repository ([here](https://github.com/nazwhale/ruby-snake)) with your improvement, which I can then accept or review.
+1) Improve my original repository with any one of the improvements from the Medium challenges (or anything else you can think of). Next, make a GitHub account and see if you can figure out what a "Pull-Request" is and how to make one. You'll have to do some setup to link GitHub with your computer.
+
+With a bit of research, you should be able to submit a pull request to my original repository ([here](https://github.com/nazwhale/ruby-snake)) with your improvement, which I can then accept or review.
 
 *Open-source tangent:*
 
