@@ -6,7 +6,7 @@ You might like to do this while referring to the completed version of snake open
 
 Designing a program is a skill that we didn't get to touch on, and you might find that you'd rather have a crack at plotting your own plan of action before looking at mine.
 
-If so, great. My advice would be to diagram lots, and be "Agile" in your approach. This means planning to re-plan at regular intervals, being adaptive, not hanging on to old ideas. You'll come to learn that, in the end, a piece of software never quite looks how you thought it would at the start. So have the peace of mind to take a step back and re-evaluate your approach as often as you need to.
+If so, great. My advice would be to diagram lots, and be "Agile" in your approach. A simple definition of Agile is that it means planning to re-plan at regular intervals, being adaptive, not hanging on to old ideas. You'll come to learn that, in the end, a piece of software never quite looks how you thought it would at the start. So have the peace of mind to take a step back and re-evaluate your approach as often as you need to.
 
 That said, if you simply want to get something working and then play around, here's some steps you might like to take:
 
