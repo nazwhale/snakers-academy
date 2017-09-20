@@ -12,36 +12,40 @@ That said, if you simply want to get something working and then play around, her
 
 1) Make the Game Window
 
-2) Make an Apple
+2) Make an Apple 🍎
 - update `apple.rb` with a `draw` method using the `@window.draw_quad`, `x` and `y` coordinate properties
 - don't forget to draw it in your Game Window
 
-3) Draw a Segment
+3) Draw a Segment ✍
 - same steps apply as above
 
-4) Turn your Segment into a 1 segment Snake
+4) Turn your Segment into a 1 segment Snake ✨
 - create an `@segments` array
 - push the head into it
 - don't forget to draw it in the Game Window
 
-5) Move your 1 Segment Snake with the arrow keys
+5) Move your 1 Segment Snake with the arrow keys ⬆
 - create a `@direction` variable in your Snake class
 - in Game Window, create an `update` method (refer to the Gosu documentation to understand what `update` is for). In `update`, add some logic so that if a button is pressed on the keyboard (again, see Gosu docs), `@snake.direction` changes
 - make a method to define what how a "right" or "left" or "up" or "down" value in the `@direction` variable should affect the `@x` and `@y` properties of your Snake
 - make an `update_position` method, which adds the latest segment to the start of a snake, and removes the oldest segment from the end of the snake
 - run the program and play with your baby Snake!
 
-6) Eat some apples
+6) Eat some apples 🍴
 - create an `ate_apple?` method in Snake, with appropriate logic to return `true` if the head of the Snake is on the same part of the window as an Apple
 - create a `@score` property in Game Window, initialized at 0
 - update the `update` method in Game Window to add some points to `@score`, increase the length of the snake, and generate a new apple, everytime `@snake.ate_apple?` is true
 
-7) Introduce speed
+7) Introduce speed 💨
 - initial `@speed` variable within the Snake class
 - increase `@speed` every time an apple is eaten, or, if you prefer, every time `@score` increases by a certain amount
 
-8) Show the score
+8) Show the score 💯
 
-9) Lose conditions in Snake class
+9) Lose conditions in Snake class 💀
 - `outside_bounds?`
 - `hit_self?`
+
+And there's probably a bunch of other stuff I've forgotten. Keep testing your work by running `ruby play.rb` and making improvement.
+
+Once you're done, on with the [challenges!](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🎉
