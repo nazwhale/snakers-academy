@@ -68,4 +68,4 @@ And there's almost certainly more. Try and figure out how you'd design any addit
 
 Keep testing your work by running `ruby play.rb` while making improvements, keep decipering those error messages, and keep reminding yourself that you're better at this than you were yesterday. 
 
-Once you're done, on with the [challenges!](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🎉
+Once you're content, on with the [challenges!](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🎉
