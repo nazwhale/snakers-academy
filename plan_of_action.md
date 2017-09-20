@@ -46,6 +46,6 @@ That said, if you simply want to get something working and then play around, her
 - `outside_bounds?`
 - `hit_self?`
 
-And there's probably a bunch of other stuff I've forgotten. Keep testing your work by running `ruby play.rb` and making improvement.
+And there's probably a bunch of other stuff I've forgotten. Keep testing your work by running `ruby play.rb` while making improvements, keep decipering those error messages, and keep reminding yourself that you're better at this than you were yesterday. [It gets easier.](https://www.youtube.com/watch?v=R2_Mn-qRKjA)
 
 Once you're done, on with the [challenges!](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🎉
