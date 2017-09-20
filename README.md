@@ -48,6 +48,9 @@ Linux
 cd snakers-academy
 ruby play.rb
 ```
+### What next?
+
+If you need some guidance on what approach to take, check out this [plan of action](https://github.com/nazwhale/snakers-academy/blob/master/plan_of_action.md) I've sketched out.
 
 Once you have a working snake game, see if you can complete some of the challenges listed [here](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🐍
 
