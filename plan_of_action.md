@@ -53,8 +53,8 @@ That said, if you simply want to get something working and then play around, her
 - update the `update` method in Game Window to add some points to `@score`, increase the length of the snake, and generate a new apple, everytime `@snake.ate_apple?` is true
 
 7) Introduce speed 💨
-- initial `@speed` variable within the Snake class
-- increase `@speed` every time an apple is eaten, or, if you prefer, every time `@score` increases by a certain amount
+- create a `@speed` variable within the Snake class
+- increase `@speed` every time an apple is eaten, or, if you prefer, every time `@score` increases by a certain amount (or a mixture of the two)
 
 8) Show the score 💯
 
