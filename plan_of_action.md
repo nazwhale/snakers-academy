@@ -4,9 +4,9 @@ As we didn't get to finish coding Snake, I've decided to give you a bit more gui
 
 You might like to do this while referring to the completed version of snake open in another window (get it [here](https://github.com/nazwhale/ruby-snake)), or instead you might prefer to try and challenge yourself by tackling it without looking (still very hard if you're new to programming!). 
 
-Designing a program is a skill that we didn't get to touch on, and you might find that you'd rather have a crack at planning your own plan of action before looking at mine.
+Designing a program is a skill that we didn't get to touch on, and you might find that you'd rather have a crack at plotting your own plan of action before looking at mine.
 
-If so, great. My advice would be to diagram lots, and be "Agile" in your approach, meaning that you plan to re-plan. You'll come to learn that, in the end, a piece of software never quite looks how you planned it would at the start. So have the piece of mind to take a step back and re-evaluate your approach as often as you need to.
+If so, great. My advice would be to diagram lots, and be "Agile" in your approach. This means planning to re-plan at regular intervals, being adaptive, not hanging on to old ideas. You'll come to learn that, in the end, a piece of software never quite looks how you thought it would at the start. So have the peace of mind to take a step back and re-evaluate your approach as often as you need to.
 
 That said, if you simply want to get something working and then play around, here's some steps you might like to take:
 
