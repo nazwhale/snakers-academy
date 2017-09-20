@@ -1,8 +1,8 @@
 # Plan of action
 
-As we didn't get to finish coding Snake, I've decided to give you a bit more guidance on the approach you might want to take in continuing with your implementation. This is all off the top of my head, so be prepared to do some thinking, stuggling, and looking stuff up in the Ruby and Gosu documentation.
+As we didn't get to finish coding Snake, I've decided to give you a bit more guidance on the approach you might want to take in continuing with your implementation. This is all off the top of my head, and, as such, is more of a rough guide than gospel. So be prepared to do some additional thinking, stuggling, and looking stuff up in the Ruby and Gosu documentation.
 
-You might like to do this while referring to the completed version of snake open in another window (get it [here](https://github.com/nazwhale/ruby-snake)), or try and challenge yourself by tackling it without looking (still very hard if you're new to programming!).
+You might like to do this while referring to the completed version of snake open in another window (get it [here](https://github.com/nazwhale/ruby-snake)), or instead you might prefer to try and challenge yourself by tackling it without looking (still very hard if you're new to programming!). 
 
 Designing a program is a skill that we didn't get to touch on, and you might find that you'd rather have a crack at planning your own plan of action before looking at mine.
 
@@ -10,7 +10,7 @@ If so, great. My advice would be to diagram lots, and be "Agile" in your approac
 
 That said, if you simply want to get something working and then play around, here's some steps you might like to take:
 
-1) Make the Game Window
+1) Make the Game Window ◻
 
 2) Make an Apple 🍎
 - update `apple.rb` with a `draw` method using the `@window.draw_quad`, `x` and `y` coordinate properties
