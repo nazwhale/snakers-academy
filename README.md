@@ -19,8 +19,10 @@ Just get [Atom](https://atom.io/). It's easy to use, looks nice, and is made ope
 
 ##### Install Homebrew, Ruby, and Gosu
 
+**Note:** Often people have trouble with installations early on. Take care to follow each step and Google any errors you might have.
+
 Mac
-* Install [Homebrew](https://brew.sh/), Ruby, and  [SDL2](https://github.com/gosu/gosu/wiki/Getting-Started-on-OS-X) by running the following commands in the terminal.
+* Install [Homebrew](https://brew.sh/), Ruby, and  [SDL2](https://github.com/gosu/gosu/wiki/Getting-Started-on-OS-X) by running the following commands in the terminal, one by one.
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
