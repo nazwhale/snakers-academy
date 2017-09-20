@@ -2,11 +2,27 @@
 
 As we didn't get to finish coding Snake, I've decided to give you a bit more guidance on the approach you might want to take in continuing with your implementation. This is all off the top of my head, and, as such, is more of a rough guide than gospel. So be prepared to do some additional thinking, stuggling, and looking stuff up in the Ruby and Gosu documentation.
 
-You might like to do this while referring to the completed version of snake open in another window (get it [here](https://github.com/nazwhale/ruby-snake)), or instead you might prefer to try and challenge yourself by tackling it without looking (still very hard if you're new to programming!). 
+When doing mentally exhausting tasks, something that helps me is to have a pre-defined amount of struggle time on any one part of the problem (say 15mins, before reaching for the answer). Consistently struggling for longer is mentally exhausting. Be kind to your confidence and enthusiasm: they are important resources, don't throw too much at them. 
+
+### Approaches
+
+These can also be thought of as progressions. A great way to learn would be to do Normal, then Hard, then Insane. Or, alternatively, pick one, then move on to another project. 
+
+**Normal**
+
+Try and understand what each line in the completed version is doing (get it [here](https://github.com/nazwhale/ruby-snake)). Us humans learn better by doing, so code along in your own text-editor, following my plan of attack (Let's get down to business). If you had never coded before and you can get to the point where you understand most of the completed version, you are doing phenomenally well.
+
+**Hard**
+
+Instead you might prefer to try and challenge yourself by tackling it without looking at the completed version (still very hard if you're new to programming!) and just using my steps.
+
+**Insane**
 
 Designing a program is a skill that we didn't get to touch on, and you might find that you'd rather have a crack at plotting your own plan of action before looking at mine.
 
 If so, great. My advice would be to diagram lots, and be "Agile" in your approach. A simple definition of Agile is that it means planning to re-plan at regular intervals, being adaptive, not hanging on to old ideas. You'll come to learn that, in the end, a piece of software never quite looks how you thought it would at the start. So have the peace of mind to take a step back and re-evaluate your approach as often as you need to.
+
+### [Let's get down to business](https://www.youtube.com/watch?v=ZSS5dEeMX64)
 
 That said, if you simply want to get something working and then play around, here's some steps you might like to take:
 
@@ -46,8 +62,10 @@ That said, if you simply want to get something working and then play around, her
 - `outside_bounds?`
 - `hit_self?`
 
+### [It gets easier](https://www.youtube.com/watch?v=R2_Mn-qRKjA)
+
 And there's almost certainly more. Try and figure out how you'd design any additional functionality, or feel free to refer to the completed version and see what's missing. If you've come this far, you're doing great.
 
-Keep testing your work by running `ruby play.rb` while making improvements, keep decipering those error messages, and keep reminding yourself that you're better at this than you were yesterday. [It gets easier.](https://www.youtube.com/watch?v=R2_Mn-qRKjA)
+Keep testing your work by running `ruby play.rb` while making improvements, keep decipering those error messages, and keep reminding yourself that you're better at this than you were yesterday. 
 
 Once you're done, on with the [challenges!](https://github.com/nazwhale/snakers-academy/blob/master/challenges.md) 🎉
